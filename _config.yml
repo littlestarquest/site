@@ -1,0 +1,30 @@
+# Site settings
+title: Little star's quest
+email: hello_little_star@gmx.com
+description : "An educational video game about Europe"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  blue: "#01329D"
+  blue2: "#01297E"
+  primary-dark: '#011E5D'
+  links: '#0F57EF'
+
+# Footer settings
+footer: Little star's quest
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: https://twitter.com/SBootstrap
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: https://github.com/IronSummitMedia/startbootstrap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
