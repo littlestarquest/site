@@ -273,7 +273,7 @@ a:focus {
     height: 400px;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/lvls.png) no-repeat center center scroll;
+    background: url({{site.baseurl}}/img/lvls.png) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
